@@ -1,0 +1,11 @@
+pagamento\Boleto.class
+pagamento\CartaoCredito.class
+pagamento\IMetodoPagamento.class
+pix\ChaveEmail.class
+service\SistemaPagamentoService.class
+pix\ChaveCPF.class
+pix\QrCode.class
+pagamento\PagamentoPix.class
+pix\IMetodoPagamentoPix.class
+pagamento\CartaoDebito.class
+com\mycompany\pagamentomaven\PagamentoMaven.class
